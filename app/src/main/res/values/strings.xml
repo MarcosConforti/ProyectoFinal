@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">TaTeTi</string>
+    <string name="txt_jugadorUno">Jugador Uno</string>
+    <string name="txt_jugadorDos">Jugador Dos</string>
+
+    <string name="tvUno">Creado por Marcos</string>
+    <string name="tvDos">Jugador Uno</string>
+    <string name="tvTres">Jugador Dos</string>
+
+    <string name="btn_Ingresar">Jugar</string>
+
+    <string name="btn_uno"></string>
+    <string name="btn_dos"></string>
+    <string name="btn_tres"></string>
+    <string name="btn_cuatro"></string>
+    <string name="btn_cinco"></string>
+    <string name="btn_seis"></string>
+    <string name="btn_siete"></string>
+    <string name="btn_ocho"></string>
+    <string name="btn_nueve"></string>
+
+    <string name="btn_turnos">Pasar Turno</string>
+    <string name="btn_reiniciar">Reiniciar juego</string>
+</resources>
